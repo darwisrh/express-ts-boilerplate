@@ -1,3 +1,7 @@
 ## Express Typescript Starter Pack
 
-Early version
+Update : Cleaning and added packages
+   - bcrypt
+   - nodemon
+   - dotenv
+   - @types/bcrypt
