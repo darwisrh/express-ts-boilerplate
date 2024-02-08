@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-typescript",
+  "name": "node-ts",
   "version": "1.0.0",
   "description": "nodejs express with typescript boilerplate",
   "main": "index.js",
